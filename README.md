@@ -1,2 +1,4 @@
 # final-project
-Template repo for final projects for EcoEvoTheory 2022
+
+
+This is a template repository for final projects for EcoEvoTheory Fall 2022.
