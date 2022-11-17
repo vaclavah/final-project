@@ -17,10 +17,12 @@ Working title:
 
 Project summary (1-2 sentences):
 
-What concepts or tools from class relate to this project?:
-
-What resources (code, data, literature) would support this project?:
+What is especially interesting (to you!) about this project?:
 
 How do you plan to tackle this project?:
+
+What concepts or tools from class relate to this project?:
+
+What additional resources (code, data, literature) would support this project?:
 
 How can Andy or Renata help?:
